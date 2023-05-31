@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "noPewarisan", "noPewarisan\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "enkapsulasi", "enkapsulasi\enkapsulasi.vcxproj", "{C81F7164-27F4-4D03-A18D-E0EAC291DBEA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "abstraksi", "abstraksi\abstraksi.vcxproj", "{78831910-FDAF-400C-86F7-7FC40C16ED7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{C81F7164-27F4-4D03-A18D-E0EAC291DBEA}.Release|x64.Build.0 = Release|x64
 		{C81F7164-27F4-4D03-A18D-E0EAC291DBEA}.Release|x86.ActiveCfg = Release|Win32
 		{C81F7164-27F4-4D03-A18D-E0EAC291DBEA}.Release|x86.Build.0 = Release|Win32
+		{78831910-FDAF-400C-86F7-7FC40C16ED7E}.Debug|x64.ActiveCfg = Debug|x64
+		{78831910-FDAF-400C-86F7-7FC40C16ED7E}.Debug|x64.Build.0 = Debug|x64
+		{78831910-FDAF-400C-86F7-7FC40C16ED7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{78831910-FDAF-400C-86F7-7FC40C16ED7E}.Debug|x86.Build.0 = Debug|Win32
+		{78831910-FDAF-400C-86F7-7FC40C16ED7E}.Release|x64.ActiveCfg = Release|x64
+		{78831910-FDAF-400C-86F7-7FC40C16ED7E}.Release|x64.Build.0 = Release|x64
+		{78831910-FDAF-400C-86F7-7FC40C16ED7E}.Release|x86.ActiveCfg = Release|Win32
+		{78831910-FDAF-400C-86F7-7FC40C16ED7E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
